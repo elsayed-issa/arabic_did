@@ -3,7 +3,6 @@ import pandas as pd
 from tqdm import tqdm
 tqdm.pandas()
 import re
-import matplotlib.pyplot as plt
 np.random.seed(32)
 
 import gensim
